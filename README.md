@@ -1,4 +1,5 @@
 # MobileNet-SSD
+### Forked from [chuanqi305/MobileNet-SSD](https://github.com/chuanqi305/MobileNet-SSD)
 A caffe implementation of MobileNet-SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.
 
 Network|mAP|Download|Download
